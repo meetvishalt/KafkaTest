@@ -1,0 +1,17 @@
+C:\dotnetcore-kafka-integration-master\Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\dotnetcore-kafka-integration-master\Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\dotnetcore-kafka-integration-master\Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\dotnetcore-kafka-integration-master\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\dotnetcore-kafka-integration-master\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\dotnetcore-kafka-integration-master\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\dotnetcore-kafka-integration-master\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\dotnetcore-kafka-integration-master\Test\bin\Debug\netcoreapp2.1\Test.pdb
+C:\dotnetcore-kafka-integration-master\Test\bin\Debug\netcoreapp2.1\Api.dll
+C:\dotnetcore-kafka-integration-master\Test\bin\Debug\netcoreapp2.1\Api.pdb
+C:\dotnetcore-kafka-integration-master\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\dotnetcore-kafka-integration-master\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\dotnetcore-kafka-integration-master\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\dotnetcore-kafka-integration-master\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\dotnetcore-kafka-integration-master\Test\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+C:\dotnetcore-kafka-integration-master\Test\obj\Debug\netcoreapp2.1\Test.dll
+C:\dotnetcore-kafka-integration-master\Test\obj\Debug\netcoreapp2.1\Test.pdb

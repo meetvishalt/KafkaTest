@@ -1,0 +1,14 @@
+C:\dotnetcore-kafka-integration-master\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\dotnetcore-kafka-integration-master\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\dotnetcore-kafka-integration-master\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\dotnetcore-kafka-integration-master\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\dotnetcore-kafka-integration-master\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\dotnetcore-kafka-integration-master\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\dotnetcore-kafka-integration-master\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\dotnetcore-kafka-integration-master\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\dotnetcore-kafka-integration-master\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\dotnetcore-kafka-integration-master\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\dotnetcore-kafka-integration-master\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\dotnetcore-kafka-integration-master\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\dotnetcore-kafka-integration-master\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\dotnetcore-kafka-integration-master\Api\obj\Debug\netcoreapp2.1\Api.pdb
